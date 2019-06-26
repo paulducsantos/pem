@@ -1,0 +1,23 @@
+{
+  "name": "pem",
+  "version": "1.0.0",
+  "description": "Welcome PEM!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulducsantos/pem.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulducsantos/pem/issues"
+  },
+  "homepage": "https://github.com/paulducsantos/pem#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
